@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="configType" value="ECLIPSE" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1593820988421" />
+        <option name="name" value="default" />
+      </Settings>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\vojtisek\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+</project>
