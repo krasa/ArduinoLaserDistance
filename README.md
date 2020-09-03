@@ -18,3 +18,10 @@ Inspired by:
 
 - https://dspace.cvut.cz/bitstream/handle/10467/88824/F1-BP-2020-Vurbsova-Barbora-barbora_vurbsova_bp_2020.pdf
 - https://github.com/BaraVu/Arduino_laser_distance
+
+
+Laser sensor manual from https://forum.arduino.cc/index.php?topic=654873.0:
+- [1](documentation 1.jpg)
+- [2](documentation 2.jpg)
+- [3](documentation 3.jpg)
+- [4](documentation 4.jpg)
