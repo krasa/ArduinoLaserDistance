@@ -6,10 +6,12 @@
 - button for tare
 
 ## Used for a proper positioning of bales:
+![](bales.jpg)
 
 ![](sensor.jpg)
 
 ![](display.jpg)
+
 
 
 Inspired by:
