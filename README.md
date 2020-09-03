@@ -21,7 +21,7 @@ Inspired by:
 
 
 Laser sensor manual from https://forum.arduino.cc/index.php?topic=654873.0:
-- [1](manual%202.jpg)
-- [2](manual%203.jpg)
-- [3](manual%201.jpg)
-- [4](manual%204.jpg)
+- [manual 1](manual%202.jpg)
+- [manual 2](manual%203.jpg)
+- [manual 3](manual%201.jpg)
+- [manual 4](manual%204.jpg)
