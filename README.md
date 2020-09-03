@@ -14,9 +14,8 @@
 
 
 
-Inspired by:
-
-- https://dspace.cvut.cz/bitstream/handle/10467/88824/F1-BP-2020-Vurbsova-Barbora-barbora_vurbsova_bp_2020.pdf
+Inspired by https://dspace.cvut.cz/handle/10467/88824:
+- https://dspace.cvut.cz/bitstream/handle/10467/88824/F1-BP-2020-Vurbsova-Barbora-barbora_vurbsova_bp_2020.pdf  
 - https://github.com/BaraVu/Arduino_laser_distance
 
 
