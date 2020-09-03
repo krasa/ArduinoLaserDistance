@@ -1,6 +1,6 @@
 ## A project using:
 - [50m/164ft Laser Distance Measuring Sensor](https://www.aliexpress.com/item/32793950499.html?spm=2114.12010610.8148356.13.781e399eK4pNj7)
-(do not recommend this model, it has [very tiny pcb pads](laser.jpg) for soldering RX/TX wires - different from the photo, 100m model should be better)
+(do not recommend this model, it has [very tiny pcb pads](laser.jpg) for soldering RX/TX wires - different from the shop's photo, 100m model should be better)
 - Arduino Uno
 - LCD
 - button for tare
