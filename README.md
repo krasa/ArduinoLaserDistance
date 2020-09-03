@@ -21,7 +21,7 @@ Inspired by:
 
 
 Laser sensor manual from https://forum.arduino.cc/index.php?topic=654873.0:
-- [manual 1](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%202.jpg)
-- [manual 2](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%203.jpg)
-- [manual 3](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%201.jpg)
+- [manual 1](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%201.jpg)
+- [manual 2](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%202.jpg)
+- [manual 3](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%203.jpg)
 - [manual 4](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%204.jpg)
