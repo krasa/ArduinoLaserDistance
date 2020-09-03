@@ -184,6 +184,7 @@ void measure(char string, int measureDelay) {
         return;
     }
 
+    //TODO error handling ':Er99!'
     char *strings[4];
     char *ptr = NULL;
     byte index = 0;
