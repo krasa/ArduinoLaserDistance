@@ -29,7 +29,7 @@ Laser sensor manual from https://forum.arduino.cc/index.php?topic=654873.0:
 Laser sensor manual from https://www.aliexpress.com/item/32823813140.html
 - original: https://docs.google.com/document/d/1HsL_9KzcfB_PNKFYGeJOcuiPVrhMToLMy2be7qqlkxU/edit?usp=sharing
 - translated: https://docs.google.com/document/d/1gwpniE1pFN0SOfniM_q6_8ykEQjoZO2nr0ZpE9tjOwc/edit?usp=sharing
-
-## USB to UART
+ 
+## USB to UART - it does not shift rx/tx to 3.3V - it is better to use Logic Level Converter https://www.aliexpress.com/item/4000587260340.html (although maybe not necessary)
 - https://dratek.cz/arduino/947-usb-ttl-prevodnik.html
 - http://www.ifamilysoftware.com/news37.html
