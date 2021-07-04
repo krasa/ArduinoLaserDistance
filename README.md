@@ -24,3 +24,8 @@ Laser sensor manual from https://forum.arduino.cc/index.php?topic=654873.0:
 - [manual 2](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%202.jpg)
 - [manual 3](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%203.jpg)
 - [manual 4](https://raw.githubusercontent.com/krasa/ArduinoLaserDistance/master/manual%204.jpg)
+
+
+Laser sensor manual from https://www.aliexpress.com/item/32823813140.html
+original: https://docs.google.com/document/d/1HsL_9KzcfB_PNKFYGeJOcuiPVrhMToLMy2be7qqlkxU/edit?usp=sharing
+translated: https://docs.google.com/document/d/1gwpniE1pFN0SOfniM_q6_8ykEQjoZO2nr0ZpE9tjOwc/edit?usp=sharing
