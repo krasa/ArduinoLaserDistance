@@ -7,8 +7,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2); // set the LCD address to 0x27 for a 16 chars and 2 line display
 
+//my laser module: RX - light blue, TX white
 //(Rx,Tx)
-//my    laser module: RX - light blue, TX white
 SoftwareSerial laserSerial(5, 4);
 
 const byte buttonPin = 3;
